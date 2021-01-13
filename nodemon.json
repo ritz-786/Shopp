@@ -1,0 +1,7 @@
+{
+  "env": {
+    "PORT": 8000,
+    "MONGODB_PASSWORD": "Mbg5ygq77DJquinX",
+    "MONGODB_NAME": "doorstep"
+  }
+}
